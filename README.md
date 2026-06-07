@@ -80,9 +80,11 @@ Ce projet a été créé pour fournir un outil graphique moderne permettant de c
 
 Cubic2‑ARM64 est un fork de Cubic conçu pour générer des images ARM64 UEFI via ubuntu-image.
 Le projet fonctionne sur Ubuntu 22.04 / 24.04 (x86_64 ou ARM64).
-📦 1. Installer les dépendances nécessaires
-bash
 
+
+📦 1. Installer les dépendances nécessaires
+
+bash
 sudo apt update
 sudo apt install python3 python3-gi python3-gi-cairo \
                  gir1.2-gtk-3.0 gir1.2-vte-2.91 \
