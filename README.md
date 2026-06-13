@@ -167,7 +167,7 @@ contact@technews365.fr
 
 ## 🔗 Cubic (version originale)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/webmasterdu63-creator/cubic-ARM64/release/cubic.png" width="120" alt="Cubic Logo">
+  <img src="cubic.png" width="120" alt="Cubic Logo">
 </p>
 
 
