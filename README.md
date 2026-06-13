@@ -25,6 +25,7 @@
 
   <!-- Status -->
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  
 
 </p>
 
@@ -81,3 +82,4 @@ sudo apt install -y squashfs-tools xorriso
 
 ## 🇬🇧 Downloads
 - [Download CUBIC2‑ARM64 (ZIP)](https://php.technews365.fr/downloads/Cubic2-ARM64-TN365.zip)
+- [Download CUBIC2‑ARM64 (TAR.GZ)](https://php.technews365.fr/downloads/Cubic2-ARM64-TN365.tar.gz)
