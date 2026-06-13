@@ -164,6 +164,11 @@ The graphical interface will start immediately.
 
 For any question or assistance:
 contact@technews365.fr
+## 📸 Capture d’écran – Accueil Cubic 2
+
+<p align="center">
+  <img src="assets/cubic2-home.png" width="70%">
+</p>
 
 ## 🔗 Cubic (version originale)
 <p align="center">
