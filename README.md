@@ -170,6 +170,7 @@ contact@technews365.fr
   <img src="https://raw.githubusercontent.com/webmasterdu63-creator/cubic-ARM64/release/cubic.png" width="120" alt="Cubic Logo">
 </p>
 
+
 Cubic2‑ARM64 est basé sur le projet original **Cubic** développé par PJ-Singh.
 
 ➡️ Version originale de Cubic :  
