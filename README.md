@@ -86,9 +86,7 @@ sudo apt install -y squashfs-tools xorriso
 
 🇫🇷 Notice d’utilisation — Cubic2‑ARM64
 
-(à coller juste sous les liens de téléchargement)
-📦 Extraction de l’archive
-Windows
+📦 Extraction de l’archive Windows
 
     Clic droit sur le fichier téléchargé (.zip ou .tar.gz)
 
@@ -127,8 +125,7 @@ contact@technews365.fr
 🇬🇧 User Guide — Cubic2‑ARM64
 
 (English version to place right under the French one)
-📦 Extracting the archive
-Windows
+📦 Extracting the archive Windows
 
     Right‑click the downloaded file (.zip or .tar.gz)
 
