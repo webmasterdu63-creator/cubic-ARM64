@@ -173,7 +173,7 @@ contact@technews365.fr
 
 ## 🔗 Cubic (version originale)
 <p align="center">
-  <img src="cubic.png" width="120" alt="Cubic Logo">
+  <img src="cubic.png" width="240" alt="Cubic Logo">
 </p>
 
 
