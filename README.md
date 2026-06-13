@@ -1,6 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/webmasterdu63-creator/Cubic2-ARM64/release/logo2.jpeg" width="180" alt="Cubic2-ARM64 Logo">
 </p>
+## 📸 Capture d’écran – Accueil Cubic 2
+
+<p align="center">
+  <img src="assets/cubic2-home.png" width="70%">
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Cubic2--ARM64-Build%20System%20Next--Gen-blueviolet?style=for-the-badge&logo=ubuntu" />
 </p>
